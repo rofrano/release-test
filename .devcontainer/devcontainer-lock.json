@@ -1,0 +1,9 @@
+{
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/node:1": {
+      "version": "1.0.1",
+      "resolved": "ghcr.io/postfinance/devcontainer-features/node@sha256:ca4fdf7def6c75262129f0a07fc381392056426162e59026c291f258de9aa332",
+      "integrity": "sha256:ca4fdf7def6c75262129f0a07fc381392056426162e59026c291f258de9aa332"
+    }
+  }
+}
