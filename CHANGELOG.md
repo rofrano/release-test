@@ -10,5 +10,3 @@
 * add github action ([3b3eb1e](https://github.com/rofrano/release-test/commit/3b3eb1e354b0ea71b0eefa1154f68864c2e87c2d))
 * added devcontainer support ([22e40b1](https://github.com/rofrano/release-test/commit/22e40b10330bbe3f73a8dba2e088a41621ed8246))
 * configure semantic release ([78e82c5](https://github.com/rofrano/release-test/commit/78e82c543529ec707bf36230c596b06fea91e831))
-
-# Change Log
