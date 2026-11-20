@@ -14,6 +14,6 @@ This should add a another new feature to the release
 
 This should add a another new feature to the release
 
-## Feature test 3
+## Feature test 4
 
 This should add a another new feature to the release
