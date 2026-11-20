@@ -17,3 +17,7 @@ This should add a another new feature to the release
 ## Feature test 4
 
 This should add a another new feature to the release
+
+## BREAKING CHANGE
+
+This should create version 2.0.0 due to a breaking change
