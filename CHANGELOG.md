@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/rofrano/release-test/compare/v1.1.0...v1.2.0) (2026-11-20)
+
+### Features
+
+* added a new feature ([969da48](https://github.com/rofrano/release-test/commit/969da48654d609033ed301434e29d27a7f66160c))
+* Test squash2 ([#6](https://github.com/rofrano/release-test/issues/6)) ([49bb68b](https://github.com/rofrano/release-test/commit/49bb68b1c9cff33fe79d101c44bac37aadd4168f))
+
 # [1.1.0](https://github.com/rofrano/release-test/compare/v1.0.1...v1.1.0) (2026-11-20)
 
 ### Features
