@@ -59,7 +59,7 @@
 			]
         }
     },
-	// "postCreateCommand": "sudo python -m pip install --upgrade pip pipenv && sudo pipenv install --system --dev",
+	"postCreateCommand": "npm install --no-save @semantic-release/changelog @semantic-release/git @semantic-release/exec && python -m pip install --user build twine",
 	// "forwardPorts": [8000]
 
 	// 👇 Features to add to the Dev Container. More info: https://containers.dev/implementors/features.
