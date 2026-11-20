@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/rofrano/release-test/compare/v1.0.1...v1.1.0) (2026-11-20)
+
+### Features
+
+* added new feature ([b850497](https://github.com/rofrano/release-test/commit/b850497ebf89c06d6adcc8f4848efd468a4cedf2))
+
 ## [1.0.1](https://github.com/rofrano/release-test/compare/v1.0.0...v1.0.1) (2026-11-20)
 
 ### Bug Fixes
