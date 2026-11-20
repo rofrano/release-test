@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/rofrano/release-test/compare/v1.0.0...v1.0.1) (2026-11-20)
+
+### Bug Fixes
+
+* remove unneeded last line ([200148f](https://github.com/rofrano/release-test/commit/200148fbd844acb5ccaf1c7d63f40862fe323276))
+
 # 1.0.0 (2026-11-20)
 
 ### Bug Fixes
