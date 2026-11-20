@@ -13,3 +13,7 @@ This should add a another new feature to the release
 ## Feature test 3
 
 This should add a another new feature to the release
+
+## Feature test 4
+
+This should add a another new feature to the release
