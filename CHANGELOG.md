@@ -1,3 +1,14 @@
+# [2.1.0](https://github.com/rofrano/release-test/compare/v2.0.1...v2.1.0) (2026-11-23)
+
+### Bug Fixes
+
+* added beta branch to config ([62f86c3](https://github.com/rofrano/release-test/commit/62f86c3fd6708624c398c2e76c4c42e98a6737ff))
+
+### Features
+
+* generate beta releases ([e433430](https://github.com/rofrano/release-test/commit/e433430527ea13b2fbaf44a9798f6b93acd01c12))
+* made new beta changes ([774274a](https://github.com/rofrano/release-test/commit/774274a5690f1a083cf90e4fed4cd456b01050a9))
+
 ## [2.0.1](https://github.com/rofrano/release-test/compare/v2.0.0...v2.0.1) (2026-11-23)
 
 ### Bug Fixes
