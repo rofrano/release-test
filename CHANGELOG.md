@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/rofrano/release-test/compare/v2.0.0...v2.0.1) (2026-11-23)
+
+### Bug Fixes
+
+* first fix ([f360bca](https://github.com/rofrano/release-test/commit/f360bca1ce5d232fa34ec21a5fff4849547fa0af))
+* second fix ([2555dbf](https://github.com/rofrano/release-test/commit/2555dbf525d9582be329b1ddd9ce54106654a926))
+
 # [2.0.0](https://github.com/rofrano/release-test/compare/v1.3.0...v2.0.0) (2026-11-23)
 
 ### Features
