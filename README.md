@@ -20,4 +20,4 @@ This should add a another new feature to the release
 
 ## BREAKING CHANGE
 
-This should create version 2.0.0 due to a breaking change
+This did not work to create version 2.0.0 due to a breaking change
