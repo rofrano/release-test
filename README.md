@@ -26,3 +26,7 @@ Trying BREAKING CHANGE footer.
 ## Testing 2 fixes
 
 This will test 2 fixes, 1 fix, a chore, a change with no type, and a 2nd fix
+
+## Beta changes
+
+Making changes that are in beta 1
