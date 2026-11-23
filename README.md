@@ -25,4 +25,4 @@ Trying BREAKING CHANGE footer.
 
 ## Testing 2 fixes
 
-This will test 2 fixes
+This will test 2 fixes, a chore, and change with no type, 
