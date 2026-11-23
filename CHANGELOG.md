@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/rofrano/release-test/compare/v1.3.0...v2.0.0) (2026-11-23)
+
+### Features
+
+* new code that breaks ([2cbe41b](https://github.com/rofrano/release-test/commit/2cbe41b5d1461d953cf164cd4783bfa22e842252))
+
+### BREAKING CHANGES
+
+* broke something
+
 # [1.3.0](https://github.com/rofrano/release-test/compare/v1.2.0...v1.3.0) (2026-11-23)
 
 ### Features
