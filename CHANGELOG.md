@@ -1,3 +1,9 @@
+# [1.3.0](https://github.com/rofrano/release-test/compare/v1.2.0...v1.3.0) (2026-11-23)
+
+### Features
+
+* **doc:** breaking test 3 \n\nBREAKING CHANGE: hope ([b4b8a7f](https://github.com/rofrano/release-test/commit/b4b8a7f86a56dc65b2bc9d53e20312db1b13914f))
+
 # [1.2.0](https://github.com/rofrano/release-test/compare/v1.1.0...v1.2.0) (2026-11-20)
 
 ### Features
