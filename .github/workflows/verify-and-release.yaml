@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master # or main
+      - beta
   pull_request:
     branches:
       - master # or main
